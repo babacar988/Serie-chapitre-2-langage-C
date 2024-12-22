@@ -2,8 +2,6 @@
 #include<string.h>
 
 
-
-
 int main()
 {
     int j,m,a;
